@@ -1,1 +1,11 @@
 # Linux Commands 
+- `sudo command`: run a command as an admin
+- `sudo su`: move into admin mode
+- `ls`: list directory
+- `ll`: list dir with permisions
+- `mkdir`: create a directory
+- `pwd`: lets you know your current directory
+- `nano filename`: opens filename using the nano editor. If the file doesn't exist, it's created
+- `mv`: for moving files. Can also rename files using it
+- `rm`: used to remove files
+- `ps`: check processes that are running
